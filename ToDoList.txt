@@ -1,0 +1,4 @@
+Shovel driveway,Low
+Do laundry,Medium
+Play,High
+Give dogs a bath,low
